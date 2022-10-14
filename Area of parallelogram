@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main(){
+  int l, b, area;
+  scanf("Enter the length of the parallelogram: %d cms \n", &l);
+  scanf("Enter the breadth of the parallelogram: %d cms \n", &b);
+  area=l*b;
+  printf("The area of the parallelogram is: %d cm^2 \n", area);
+}
