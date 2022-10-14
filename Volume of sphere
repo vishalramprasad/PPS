@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main(){
+  int r, vol;
+  scanf("Enter the radius of the sphere: &d cm \n", &r);
+  vol=1.3333*3.14*r*r*r;
+  printf("The volume of the sphere is: &d cm^3 \n", vol);
+}
+  
