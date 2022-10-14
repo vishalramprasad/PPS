@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main(){
+  int side, area;
+  scanf("Enter the side of square: %d cm \n", &side);
+  area=side*side;
+  printf("The area of the square is: %d cm^2 \n", area);
+}
