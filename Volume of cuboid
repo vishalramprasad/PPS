@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main(){
+  int l, b, h, vol;
+  scanf("Enter length: %d\n", &l);
+  scanf("Enter breadth: %d\n", &b);
+  scanf("Enter height: %d\n", &h);
+  vol=l*b*h;
+  printf("The volume is: %d\n", vol);
+}
+  
