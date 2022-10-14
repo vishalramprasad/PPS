@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main(){
+  int r, h;
+  float vol;
+  scanf("Enter radius of cone: %d\n", r);
+  scanf("Enter height of cone: %d\n", h);
+  vol = 1/3 * 3.14*r*r*h;
+  printf("The volume is: %d\n", vol);
+}
+  
