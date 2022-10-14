@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-  printf("RA2211042010014");
+  printf("RA2211042010014\n");
 
   printf("Hello world!");
   return 0;
