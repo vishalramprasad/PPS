@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int number1,number2,result;
-    printf("RA2211042010014");
+    printf("RA2211042010014\n");
     printf("Enter two integers:");
     scanf("%d %d",&number1,&number2);
     result=number1-number2;
