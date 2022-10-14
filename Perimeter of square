@@ -1,0 +1,8 @@
+#inculde<stdio.h>
+void main() {
+  int side, peri;
+  scanf("Enter side of square in cm: %d\n", &side);
+  peri=4*side;
+  printf("RA2211042010014\n");
+  printf("The perimeter of the square is: %d\n", peri);
+}
