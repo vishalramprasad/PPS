@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main() {
+  int rad, height, area;
+  scanf("Enter the radius in cm: %d\n", &rad);
+  scanf("Enter the height in cm: %d\n", &height);
+  printf("RA2211042010014\n");
+  area = 3.14*rad*rad*height;
+  printf("Your area is: %d", area);
+}
+  
