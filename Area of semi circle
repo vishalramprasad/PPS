@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main(){
+  int radius;
+  float area;
+  scanf("Enter the radius: %d cms \n", &radius);
+  area=3.14*0.5*radius*radius;
+  printf("RA2211042010014\n");
+  printf("The area of the circle is: %d cm^2 \n, area);
+}
