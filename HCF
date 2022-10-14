@@ -6,8 +6,9 @@
  #include <stdio.h> 
  int main() 
  { 
-     int num1, num2, i, gcd; 
-  
+     int num1, num2, i, gcd;
+     printf("RA2211042010014");
+     
      printf("Enter two integer Numbers: "); 
      scanf("%d %d", &num1, &num2); 
   
