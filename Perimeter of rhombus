@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main(){
+  int s, peri;
+  scanf("Enter the side length of the rhombus: %d cm \n", &s);
+  peri=4*s;
+  printf("The perimeter of rhombus: %d cms \n", peri);
+}
