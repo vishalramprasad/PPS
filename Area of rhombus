@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main(){
+  int p, q;
+  float area;
+  scanf("Enter the length of shorter diagonal: %d cms \n", &p);
+  scanf("Enter the length of longer diagonal: %d cms \n", &q);
+  area=1/2*p*q;
+  printf("The area of the rhombus is: %f cm^2 \n", area);
+}
